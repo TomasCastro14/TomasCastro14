@@ -41,18 +41,18 @@ Co-fundador y desarrollador de **Noctis Productions**, donde construí y manteng
 - **NoSQL:** MongoDB, Redis, Cassandra
 - **Grafos:** Neo4j
 - **Otras:** InterSystems IRIS
-- 
+
 ### Infraestructura y sistemas
  
 - **Contenedores:** Docker
 - **Sistemas:** Linux (uso diario), Bash, WSL
 - **Redes:** TCP/IP, IPv4/IPv6, VLAN, routing y switching, OSPF, BGP, WLAN
 - **Control de versiones:** Git, GitHub
-- 
+
 ### Herramientas
  
 - **Editores e IDEs:** IntelliJ IDEA, VS Code, Neovim
-- 
+
 ### Conocimientos adicionales
  
 - **Diseño:** Programación orientada a objetos, patrones de diseño
