@@ -1,6 +1,6 @@
 # Hola, soy Tomás 👋
  
-**Desarrollador Full Stack — Java / Spring Boot / Vue**
+### Desarrollador Full Stack: Java / Spring Boot / Vue
 Estudiante de 4.º año de Ingeniería en Informática en UADE (Buenos Aires, Argentina), a punto de recibir el título intermedio de Analista en Informática.
  
 Co-fundador y desarrollador de **HowlCore**, donde construí y mantengo [howlcon.com](https://howlcon.com), una plataforma de ticketing y gestión de eventos que está en producción.
